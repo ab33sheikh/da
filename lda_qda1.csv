@@ -1,0 +1,11 @@
+qualification,creditcard,balance,default
+BE,1,1050,Y
+BA,0,2200,N
+BE,0,2100,N
+BA,0,2400,Y
+BE,0,2070,N
+BA,1,1500,Y
+BE,1,1080,Y
+BA,1,1400,N
+BE,1,1030,N
+BA,1,1200,Y
